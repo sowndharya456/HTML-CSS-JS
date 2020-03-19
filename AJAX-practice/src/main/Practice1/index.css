@@ -1,0 +1,10 @@
+#container {
+    text-align: center;
+    padding-top: 10%;
+}
+
+#submit-button {
+    background: lightblue;
+    padding: 10px 40px;
+    margin-top: 30px;
+}

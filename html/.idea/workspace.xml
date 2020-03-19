@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd44e583-a2bf-4263-a2d8-104b845d50a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YOABVSvdqOcqfvkQzHOLSBqJcu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/LoginPage" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (5)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/src/LoginPage/DOM-practice3/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/src/LoginPage/Bootstrap2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/src/LoginPage/practiceQ1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/src/LoginPage/DOM-practice4/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/src/LoginPage/practiceQ2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (5)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd44e583-a2bf-4263-a2d8-104b845d50a9" name="Default Changelist" comment="" />
+      <created>1582803131753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582803131753</updated>
+      <workItem from="1582803135690" duration="44213000" />
+      <workItem from="1584549436215" duration="4474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584451526529">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584451526529" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584451526527">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584451526527" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584451526526">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584451526526" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584451526528">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584451526528" />
+    <state width="1398" height="17" key="GridCell.Tab.1.bottom" timestamp="1584451526422">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="17" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584451526422" />
+    <state width="1398" height="17" key="GridCell.Tab.1.center" timestamp="1584451526419">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="17" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584451526419" />
+    <state width="1398" height="17" key="GridCell.Tab.1.left" timestamp="1584451526418">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="17" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584451526418" />
+    <state width="1398" height="17" key="GridCell.Tab.1.right" timestamp="1584451526421">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="17" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584451526421" />
+    <state width="1398" height="17" key="GridCell.Tab.2.bottom" timestamp="1584451526428">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="17" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584451526428" />
+    <state width="1398" height="17" key="GridCell.Tab.2.center" timestamp="1584451526425">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="17" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1584451526425" />
+    <state width="1398" height="17" key="GridCell.Tab.2.left" timestamp="1584451526423">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="17" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1584451526423" />
+    <state width="1398" height="17" key="GridCell.Tab.2.right" timestamp="1584451526427">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="17" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1584451526427" />
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1583084605879">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1/0.23.1440.877@0.23.1440.877" timestamp="1583084605879" />
+    <state x="100" y="100" width="1240" height="700" key="dock-window-2" timestamp="1583084605881">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="dock-window-2/0.23.1440.877@0.23.1440.877" timestamp="1583084605881" />
+    <state x="114" y="147" key="new project wizard" timestamp="1584451510834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="114" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1584451510834" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584361920611">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584361920611" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LoginPage/DOM-practice4/scripts/index.js</url>
+          <line>11</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/LoginPage/DOM-practice4/scripts/index.js</url>
+          <line>67</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

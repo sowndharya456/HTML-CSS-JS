@@ -1,0 +1,47 @@
+h1{
+
+}
+.credentials{
+
+
+}
+body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+}
+input{
+    width: 200px;
+    margin-top: 5px;
+    display:block;
+
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+
+}
+.Sub_button{
+    padding: 10px;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    width: 210px;
+}
+
+.Sub_button:hover{
+    cursor:pointer;
+}
+.textarea{
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+
+}

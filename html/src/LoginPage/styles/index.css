@@ -1,0 +1,46 @@
+form{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    width:20%;
+    padding:10px;
+    margin: 20px;
+
+}
+input {
+    padding: 10px;
+}
+.login-btn{
+    background-color: green;
+
+    padding: 10px;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+h5{
+    color:blue;
+    display: inline-block;
+}
+
+h1{
+    display: inline-block;
+}
+
+.label-text {
+    font-weight: bold;
+    margin: 10px 0;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    color: #333;
+    align-items: center;
+    justify-content: center;
+}

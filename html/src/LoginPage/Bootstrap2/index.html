@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <!--Add bootstrap libraries here-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+            crossorigin="anonymous"></script>
+
+</head>
+<body>
+
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" id="sign-in-button">
+    Sign In
+</button>
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalSignUp" id="sign-up-button">
+    Sign Up
+</button>
+<!--Add your code here-->
+<div class="modal" id="exampleModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"> Welcome Back</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="input-group">
+                    <label for="exampleInputEmail1" class="w-100">Email address</label>
+                    <input class="w-100" id="exampleInputEmail1" type="text" value="" placeholder="Enter email">
+                </div>
+                <div class="input-group">
+                    <label for="exampleInputPassword1" class="w-100">Password </label>
+                    <input class="w-100" id="exampleInputPassword1" type="password" value="" placeholder="Password">
+
+                </div>
+                <div>
+                    <input type="checkbox" id="exampleCheck1"/> <label>Remember Me</label>
+                </div>
+
+            </div>
+            <div class="modal-footer justify-content-start">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Sign In</button>
+                <button type="button" class="btn btn-secondary">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal" id="exampleModalSignUp" tabindex="-3" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"> Join Us</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="input-group">
+                    <label for="exampleInputName1" class="w-100">Enter your Name</label>
+                    <input class="w-100" id="exampleInputName1" type="text" value="" placeholder="Enter Name">
+                </div>
+                <div class="input-group">
+                    <label for="exampleInputEmail1" class="w-100">Enter your Email address</label>
+                    <input class="w-100" id="exampleInputEmail1" type="text" value="" placeholder="Enter email">
+                </div>
+                <div class="input-group">
+                    <label for="exampleInputPassword1" class="w-100">Enter a Password </label>
+                    <input class="w-100" id="exampleInputPassword1" type="password" value="" placeholder="Password">
+
+                </div>
+                <div class="input-group">
+                    <label for="exampleInputPassword2" class="w-100">Confirm Password </label>
+                    <input class="w-100" id="exampleInputPassword2" type="password" value="" placeholder="Password">
+
+                </div>
+                <div class="input-group">
+                    <input type="checkbox" id="exampleCheck"> <label>Remember Me</label>
+                </div>
+
+            </div>
+            <div class="modal-footer justify-content-start">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Sign Up</button>
+                <button type="button" class="btn btn-secondary">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

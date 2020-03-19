@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Selectors in Javascript</title>
+</head>
+<body>
+<!--<h1>Hello this is a sample web page</h1>
+<p class="customPara">This is the HTML first paragraph</p>
+<p class="customPara">This is the HTML second paragraph</p>
+<script>
+    /*Insert your code here*/
+    document.getElementsByTagName("h1")[0].innerHTML="Hello this is my JavaScript page";
+    document.getElementsByClassName("customPara")[0].innerHTML="This is the JavaScript first paragraph";
+    document.getElementsByClassName("customPara")[1].innerHTML="This is the JavaScript second paragraph";
+
+</script>
+
+<h1>Let's add some elements using javascript</h1>
+<div id="parentDiv">This is our parent div</div>
+<script>
+    /*Enter your code here */
+    var para= document.createElement('p');
+    para.innerHTML="This paragraph was added by javascript as a child to the parent div";
+    document.getElementById('parentDiv').appendChild(para);
+
+
+</script>
+
+
+<p>Hi there,</p>
+<p id="customPara">Change my color using Javascript</p>
+<script>
+    /*Insert your code here*/
+    document.getElementById("customPara").setAttribute("style","color:red");
+</script>
+-->
+
+<h1>Let's some JavaScript loops</h1>
+<p class="customPara"></p>
+<p class="customPara"></p>
+<p class="customPara"></p>
+<p class="customPara"></p>
+<script>
+    //Write your code here
+
+    var arr= ['one','two','three','four'];
+    for( let i = 0; i < 4; ++i)
+    {
+       var para=  document.getElementsByClassName("customPara")[i];
+        para.innerHTML='This is the paragraph number '+arr[i]+'';
+
+    }
+</script>
+</body>
+
+</html>

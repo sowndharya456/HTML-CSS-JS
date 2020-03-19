@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="index.css">
+    <title>Employee Registration</title>
+</head>
+<body>
+<div id="container">
+    <h2>Employee Registration Form</h2>
+    <form id="form-container">
+        <label for="firstName">Name:</label><br/>
+        <input id="firstName" type="text" placeholder="Enter your first name">
+        <br/><br/>
+        <label for="role">Role:</label><br/>
+        <input id="role" type="text" placeholder="Enter your role">
+    </form>
+    <button id="register-button" class="form-button" onclick="registerEmployee(firstName, role)">Register</button>
+    <button id="update-button" class="form-button" onclick="updateEmployee(firstName, role)">Update</button>
+</div>
+<script src="index.js"></script>
+</body>
+</html>

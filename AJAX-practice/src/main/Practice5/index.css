@@ -1,0 +1,19 @@
+#container{
+    text-align: center;
+    padding-top: 10%;
+}
+
+#button-label{
+    margin: 20px;
+}
+
+#link-container{
+    align-content: center;
+    padding: 10px;
+}
+
+#button-link{
+    background: lightblue;
+    padding: 10px 30px ;
+    border: 0ch;
+}

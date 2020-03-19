@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    padding: 1%;
+    background-color: blue;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.menu-block{
+    width:20%;
+    background-color: grey;
+    padding: 5%;
+    color: white;
+    height: 100vh;
+}
+.board-container{
+    width:80%
+}
